@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "simpleportfolio",
   "version": "1.0.1",
-  "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "private": "false",
+  "description": "ostroch portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "https://github.com/oliveross123/portfolio-v1"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
